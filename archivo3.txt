@@ -1,1 +1,2 @@
 Este es el archivo 3
+Nuevo contenido del archivo 3
